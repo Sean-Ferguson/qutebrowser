@@ -1,0 +1,9 @@
+[submodule "catppuccin"]
+	path = themes/catppuccin
+	url = https://github.com/catppuccin/qutebrowser.git
+[submodule "dracula"]
+	path = themes/dracula
+	url = https://github.com/dracula/qutebrowser-dracula-theme.git
+[submodule "onedark"]
+	path = themes/onedark
+	url = https://github.com/leosolid/qutebrowser-themes

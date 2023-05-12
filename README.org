@@ -1,0 +1,2 @@
+* Qutebrowser config
+** there are a couple of themes available near the bottom of config.py
